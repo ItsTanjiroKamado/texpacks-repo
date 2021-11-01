@@ -1,2 +1,2 @@
-# texpacks-repo
-texture packs for mc
+# Texture Packs Repository
+Releases contain all texture packs, go there to download
